@@ -1,0 +1,14 @@
+The repo link: "https://github.com/ahmedosamaismail/VersionControlSystem"
+
+1-Created a new repo using git bash
+2-Created a new repo in Github 
+3-Put the remote repo (Github)
+4-Added all the files and committed them (the getSum func)
+5-Pushed that to the repo
+6-Created the First-Branch , put , added and committed the getAverage func
+7-Switched to the master branch
+8-Created the Second-Branch , put , added and committed the getMin func
+9-Switched again to the master branch
+10-Merged the First-Branch with the master 
+11-Merged the Second-Branch with the master but a conflict took place and i resolved it
+12-Pushed that to the repo
